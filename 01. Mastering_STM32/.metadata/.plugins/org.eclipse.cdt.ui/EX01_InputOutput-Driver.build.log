@@ -1,0 +1,10 @@
+18:05:05 **** Incremental Build of configuration Debug for project EX01_InputOutput-Driver ****
+make -j12 all 
+arm-none-eabi-size  EX01_InputOutput-Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7692	     12	   1572	   9276	   243c	EX01_InputOutput-Driver.elf
+Finished building: default.size.stdout
+ 
+
+18:05:05 Build Finished. 0 errors, 0 warnings. (took 273ms)
+
